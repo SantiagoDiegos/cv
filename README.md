@@ -3,7 +3,7 @@
 A professional portfolio website showcasing learning challenges in algorithms, data science, and statistical analysis. Built with vanilla HTML, CSS, and JavaScript for GitHub Pages deployment.
 
 ## 🚀 Live Site
-[Visit Portfolio](https://santiagodiegos.github.io/cv/))
+[Visit Portfolio](https://santiagodiegos.github.io/cv/)
 
 ## 📁 Project Structure
 ```
